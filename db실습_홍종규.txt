@@ -1,0 +1,53 @@
+1. 디비 생성
+create database my_db2;
+Query OK, 1 row affected (0.01 sec)
+
+2. 디비 확인
+show databases;
++--------------------+
+| Database           |
++--------------------+
+| information_schema |
+| my_db2             |
+| mysql              |
+| performance_schema |
+| sys                |
++--------------------+
+5 rows in set (0.00 sec)
+
+3. 테이블을 만든다.
+create table exam2(
+     number int(10),
+     name varchar(15),
+     address varchar(30)
+    );
+Query OK, 0 rows affected, 1 warning (0.03 sec)
+
+
+4.테이블을 만든다.
+create table exam3(
+     hobby varchar(15),
+     code int(5),
+     haha varchar(20)
+    );
+Query OK, 0 rows affected, 1 warning (0.03 sec)
+
+5.테이블을 확인한다.
+show tables;
++------------------+
+| Tables_in_my_db2 |
++------------------+
+| exam2            |
+| exam3            |
++------------------+
+2 rows in set (0.00 sec)
+
+6. 테이블을 지우고 다시 확인한다.
+drop table exam3;
+show tables;
++------------------+
+| Tables_in_my_db2 |
++------------------+
+| exam2            |
++------------------+
+1 row in set (0.00 sec)

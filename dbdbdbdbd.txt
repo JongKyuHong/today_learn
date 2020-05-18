@@ -1,0 +1,111 @@
+데이터 베이스 이름 확인
+show databases;
+
+데이터 베이스 이용
+use [db명];
+use mysql;
+
+테이블 이름 확인
+show tables;
+
+테이블의 구조 확인
+desc [테이블명];
+
+desc db;
+# Field : 컬럼명
+# Type : 자료형태
+# Null : No
+# Key : PRI or 아무것도 없는지
+
+desc time_zone_name;
+
+# 만들기
+# DB만들기
+
+create [DB명]
+create my_db1;
+show databases;
+
+# Table 만들기
+use my_db1;
+create table [table명]
+create table exam1 (
+	[컬럼명] [자료형](크기),
+	[컬럼명] [자료형](크기),
+	[컬럼명] [자료형](크기),
+	[컬럼명] [자료형](크기)
+)
+
+ex)
+use my_db1;
+create table exam1(
+	name varchar(10),
+	id varchar(10),
+	city varchar(30)
+);
+
+
+##지우기
+drop table exam1;
+drop database my_db1;
+
+
+###
+1. 디비 생성 my_db2
+2. 디비 확인
+3. 테이블을 만든다. exam2
+4. 테이블을 만든다. exam3
+5. 테이블을 확인한다.
+6. 테이블을 지우고 다시 확인한다.
+###
+
+### 열의 추가, 삭제, 변경하는 명령어 alter add, drop, modify ,rename
+### 데이터를 입력(삽입)하는 것의 명령어 insert into 테이블명(컬럼명) values(넣을값들)
+### 입력된 데이터를 변경하는 명령어 update 테이블명 set [컬럼] = "_" where name='홍길동'
+### 데이터 조회하는 명령어 select 
+### 데이터 삭제 delete
+
+## 01. 테이블을 만들고, 열을 추가하기
+create table test1(
+    -> hello varchar(10),
+    -> hi varchar(20),
+    -> name varchar(30),
+    -> number varchar(40)
+    -> );
+
+alter table test add(id int(10));
+
+## 02. 열을 삭제하기
+
+alter table test1 drop id;
+
+## 03. 열을 변경한다
+
+alter table test1 CHANGE hello hello2 varchar(10);
+
+### 실습
+table : exam2
+col : name1, phone1, id1, city1
+
+01 열추가 email1
+alter table exam2 add(email1 varchar(30));
+Query OK, 0 rows affected (0.02 sec)
+
+02 열삭제 city1
+alter table exam2 drop city1;
+Query OK, 0 rows affected (0.04 sec)
+Records: 0  Duplicates: 0  Warnings: 0
+
+03 열변경 id1 ->id_num1
+alter table exam2 CHANGE id1 id_num1 varchar(10);
+
+
+## 04. 변경된 테이블을 확인한다.
+desc exam2;
+
+## 05.  데이터를 입력하기
+insert into exam2 values('a','b','c','d');
+## 06. 입력된 데이터를 변경하기
+update exam2 set name1 = 'a2';
+## 07. 데이터 조회하기
+select * from exam2;
