@@ -1,0 +1,86 @@
+### 학사 테이블을 생성
+---> 테이블명 : post
+---> 컬럼명
+post_no varchar(6)
+post_dong char(30)
+post_address char(60)
+ddd	char(4)
+
+---> 다시 삭제한 이후에
+---> Not null 속성(post_no,post_dong,post_addr)
+
+### 데이터 베이스를 선택할 때 선택 가능한 타입 존재 innoda,
+isam
+
+---> 트랜잭션의 사용이 가능,(Rollback, commit)
+---> 외래키 사용가능
+---> 단점 : 조금 느림
+
+###
+실습1) 과목명, 과목코드, 과목인원, 과목 개설 일자를 기록하기
+위한 DIPLOMAS 테이블을 생성하자
+COURSE,
+CODE,
+NUM,
+MAKE_DATE
+
+primary key COURSE, CODE, MAKE_DATE
+
+----> 
+
+desc diplomas23;
+
+### 같은 테이블내에 같은 컬럼명을 가질 수 없다.
+
+CREATE TABLE exam3(
+	name varchar(10),
+	phone varchar(15),
+	id varchar(10),
+	id varchar(10)
+);
+
+--->에러남
+
+###  
+alter table exam3 modify id varchar(15);
+desc exam3;
+
+### SELECT
+
+select * from post;
+select * from diplomas where
+
+####
+01. diplomas 데이터를 복수를 넣는다. 5개
+02. select 문을 이용해서 전체를 검색해 본다.
+03. select 문의 where를 이용해서 원하는 조건을 검색해 본다.
+04. 원하는 조건으로 검색하되 컬럼은 COURSE, NUM만 보이게 한다.
+
+
+### group by
+select COURSE, count(*) from diplomas group by COURSE;
+
+### 
+
+select type, count(*) as cnt from ex
+group by type
+having cnt=3
+order by type desc;
+
+### 기존의 테이블을 이용해서 새로운 테이블을 만들어 보겠다.
+
+CREATE TABLE ex1 as select * from ex;
+복사시에 primary key는 적용대지않고 not null은 적용
+
+### id가 2이고 고려시대인것을 지워라
+
+
+### 기존의 테이블 ex를 이용해서 ex2번을 만든다.
+1) alter table이용해서 제약조건 추가 id에 primary key지정
+2) 데이터 7개를 ex와 동일한 데이터로 넣는다
+3) 데이터를 확인 select
+4) group by 이용해서 각 시대별 사람은  몇명이나 있는지 확인한다
+5) order by 이용해 큰 값이 앞으로 가도록 정렬
+6) having 절 이용해 각 시대별 사람이 2명인 그룹만 출력
+
+update써서 조선시대의 한 사람을 다른 인물로 대체한다.
