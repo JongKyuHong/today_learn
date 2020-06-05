@@ -1,0 +1,67 @@
+﻿1. 파일의 목록
+
+---> ls
+
+ls [공백] -[옵션]
+
+2. 현재 디렉터리 위치 표시
+
+---> pwd
+
+3. 새로운 디렉터리(폴더) 만들어보기
+---> mkdir
+mkdir [디렉터리명]
+---> mkdir -p 상위경로도 생성
+ex)
+mkdir friend
+mkdir /home/training/fri
+
+4. 디렉터리 위치를 변경
+---> cd(change directory)
+cd [위치]
+
+home - 현재 위치
+training (home 안에 있는 디렉터리)
+
+cd training
+cd /home/training
+
+5. 파일 삭제
+---> rm
+rm [파일명을 포함한 위치를 지정]
+/home/training/tt.txt
+
+cd /home/training
+rm tt.txt
+
+rm /home/training/tt.txt
+
+6. 도움말 보기
+(1) [명령어] --help
+(2) man [명령어]
+
+
+cp : 파일 복사
+mv : 파일 이동
+cd : 경로 이동
+mkdir :디렉터리 만들기
+rm : 파일 삭제
+rmdir : 디렉터리 삭제
+rm -rf : 디렉터리 안에 파일이 있을경우 삭제하는 방법
+mkdir -p 디렉터리가 없을때 생성 만들어준다.
+
+[명렁어] --help : 도움말
+man [명령어] : 도움말
+
+관리자 권한 실행
+sudo [명렁어] ...
+ls : 디렉터리 또는 리스트 보기
+ls -l : 리스트 형태로 봄
+ls -r : 정렬
+
+
+어떤 결과를 넘겨주는데
+touch r1.txt
+rm r1.txt 1> result.txt ---> 정상 적인 출력 결과가 넘어감
+rm r1.txt 2> result.txt ---> 에러메시지를 넘겨줌
+
