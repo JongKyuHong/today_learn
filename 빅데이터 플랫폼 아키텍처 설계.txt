@@ -1,0 +1,4 @@
+빅데이터 수집 내장 소프트웨어 : Crawling, Flume, Scribe
+빅데이터 저장 내장 소프트웨어 : NoSQL , HDFS
+빅데이터 처리 내장 소프트웨어 : MapReduce, 
+
