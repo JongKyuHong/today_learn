@@ -5,7 +5,7 @@ def solution(distance, rocks, n):
     answer = 0
     start = 1
     end = distance
-    
+
 
 
     return answer
