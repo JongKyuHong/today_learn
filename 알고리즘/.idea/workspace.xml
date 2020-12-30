@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63ced1ba-e8f9-428e-91c0-a31911ccad03" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/20201230/a+b-7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20201230/a+b-8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20201230/곱셈.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20201230/구구단.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20201230/빠른 a+b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20201230/더하기 사이클.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +43,28 @@
       <recent name="C:\Users\홍\Documents\GitHub\today_learn\알고리즘\20201215" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.별찍기">
+  <component name="RunManager" selected="Python.더하기 사이클">
+    <configuration name="더하기 사이클" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="알고리즘" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20201230" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20201230/더하기 사이클.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="괄호 변환" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="알고리즘" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -124,27 +141,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20201230/별찍기.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="구구단" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="알고리즘" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20201230" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20201230/구구단.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -365,11 +361,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.더하기 사이클" />
         <item itemvalue="Python.별찍기" />
         <item itemvalue="Python.a+b-8" />
         <item itemvalue="Python.a+b-7" />
         <item itemvalue="Python.빠른 a+b" />
-        <item itemvalue="Python.구구단" />
       </list>
     </recent_temporary>
   </component>
