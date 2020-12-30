@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63ced1ba-e8f9-428e-91c0-a31911ccad03" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/20201230/문자열 압축.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201229/괄호 변환.py" beforeDir="false" afterPath="$PROJECT_DIR$/20201229/괄호 변환.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,8 +30,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/20201230" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\홍\Documents\GitHub\today_learn\알고리즘\20201230" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\홍\Documents\GitHub\today_learn\알고리즘\20201223" />
       <recent name="C:\Users\홍\Documents\GitHub\today_learn\알고리즘\20201217" />
@@ -39,7 +43,7 @@
       <recent name="C:\Users\홍\Documents\GitHub\today_learn\알고리즘\20201215" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.괄호 변환">
+  <component name="RunManager" selected="Python.1이 될 때까지">
     <configuration name="비밀지도 다른풀이" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="알고리즘" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -336,7 +340,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.괄호 변환" />
         <item itemvalue="Python.큰 수 만들기" />
         <item itemvalue="Python.1이 될 때까지" />
         <item itemvalue="Python.구명보트" />
