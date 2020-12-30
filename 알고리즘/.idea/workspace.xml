@@ -47,7 +47,7 @@
       <recent name="C:\Users\홍\Documents\GitHub\today_learn\알고리즘\20201215" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.a+b-8">
+  <component name="RunManager" selected="Python.별찍기">
     <configuration name="괄호 변환" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="알고리즘" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -111,7 +111,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="곱셈" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="별찍기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="알고리즘" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -123,7 +123,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20201230/곱셈.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20201230/별찍기.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -365,11 +365,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.별찍기" />
         <item itemvalue="Python.a+b-8" />
         <item itemvalue="Python.a+b-7" />
         <item itemvalue="Python.빠른 a+b" />
         <item itemvalue="Python.구구단" />
-        <item itemvalue="Python.곱셈" />
       </list>
     </recent_temporary>
   </component>
