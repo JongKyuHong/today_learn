@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63ced1ba-e8f9-428e-91c0-a31911ccad03" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/20210104/골드바흐의 추측.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20210104/베르트랑 공준.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20210104/소인수분해.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20210104/에라토스테네스의 체.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20210104/Fly me to the Alpha Centauri.py" beforeDir="false" afterPath="$PROJECT_DIR$/20210104/Fly me to the Alpha Centauri.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20210104/소수.py" beforeDir="false" afterPath="$PROJECT_DIR$/20210104/소수.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20210104/네 번째 점.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,8 +42,8 @@
       <recent name="C:\Users\홍\Documents\GitHub\today_learn\알고리즘\20201215" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.골드바흐의 추측">
-    <configuration name="에라토스테네스의 체" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.네 번째 점">
+    <configuration name="네 번째 점" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="알고리즘" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -61,7 +55,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20210104/에라토스테네스의 체.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20210104/네 번째 점.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -492,11 +486,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.네 번째 점" />
         <item itemvalue="Python.골드바흐의 추측" />
         <item itemvalue="Python.베르트랑 공준" />
         <item itemvalue="Python.소인수분해" />
         <item itemvalue="Python.소수" />
-        <item itemvalue="Python.에라토스테네스의 체" />
       </list>
     </recent_temporary>
   </component>
