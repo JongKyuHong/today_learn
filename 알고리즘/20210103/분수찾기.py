@@ -1,14 +1,8 @@
 n = int(input())
-a = 1
-while 1:
-    if (a**2)/2 >= n:
-        break
-    a += 1
-alpha= [[]]
 
-for i in range(a):
-    print("*"*i)
+line = 1
+while n > line:
+    n -= line
+    line += 1
+print(n)
 
-
-
-print(a)
