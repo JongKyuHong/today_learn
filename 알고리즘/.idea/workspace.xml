@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63ced1ba-e8f9-428e-91c0-a31911ccad03" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/20210106/n과m.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20210106/체스판 다시 칠하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/20210106/체스판 다시 칠하기.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +44,7 @@
       <recent name="C:\Users\홍\Documents\GitHub\today_learn\알고리즘\20201215" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.체스판 다시 칠하기">
+  <component name="RunManager" selected="Python.n과m">
     <configuration name="체스판 다시 칠하기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="알고리즘" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -486,7 +486,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="통계학(시간초과)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="n과m" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="알고리즘" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -498,7 +498,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\홍\Documents\GitHub\today_learn\알고리즘\20210106\통계학(시간초과).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20210106/n과m.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -509,11 +509,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.n과m" />
         <item itemvalue="Python.체스판 다시 칠하기" />
         <item itemvalue="Python.체스판 다시 칠하기(답)" />
         <item itemvalue="Python.에라토스테네스의 체" />
         <item itemvalue="Python.통계학" />
-        <item itemvalue="Python.통계학(시간초과)" />
       </list>
     </recent_temporary>
   </component>
