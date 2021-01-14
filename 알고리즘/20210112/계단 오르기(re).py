@@ -19,5 +19,5 @@ if __name__ == '__main__':
     for i in range(n):
         stair.append(int(input().strip()))
     solve(stair,n)
-    
+
 # https://daimhada.tistory.com/181
