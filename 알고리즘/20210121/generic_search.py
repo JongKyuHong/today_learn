@@ -73,6 +73,15 @@ def dfs(initial: T, goal_test: Callable[[T],bool],successors:Callable[[T],List[T
             explored.add(child)
             frontier.push(Node(child,current_node))
         return None
+def node_to_path(node: Node[T]) -> List[T]:
+    path: List[T] = [node.state]
+    while node.parent is not None:
+        node = node.parnet
+        path.append(node.state)
+    path.reverse()
+    return path
+
+
 if __name__ == "__main__":
     print(linear_contins([1,5,15,15,15,15,20],5))
     print(binary_contains(["a","d",'e','f','z'],'f'))
