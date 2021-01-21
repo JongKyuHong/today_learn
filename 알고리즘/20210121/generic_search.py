@@ -2,7 +2,7 @@ from __future__ import annotations
 from typing import TypeVar, Iterable, Sequence, Generic, List, Callable,Set,Deque,Dict,Any,Optional
 from typing_extensions import Protocol
 from heapq import heappush,heappop
-
+import collections
 T = TypeVar('T')
 
 def linear_contins(iterable: Iterable[T],key:T) -> bool:
@@ -49,7 +49,8 @@ class Stack(Generic[T]):
             return repr(self._container)
 class Queue(Generic[T]):
     def __init__(self) -> None:
-        self._container: Deque[T] = Deque()
+        #self._container: Deque[T] = Deque()
+        self._container: Deque[T] = collections.deque()
     @property
     def empty(self) -> bool:
         return not self._container
@@ -83,6 +84,23 @@ def dfs(initial: T, goal_test: Callable[[T],bool],successors:Callable[[T],List[T
             explored.add(child)
             frontier.push(Node(child,current_node))
         return None
+
+def bfs(initial:T, goal_test: Callable[[T],bool],successors:Callable[[T],List[T]]) -> Optional[Node[T]]:
+    frontier: Queue[Node[T]] = Queue()
+    frontier.push(Node(initial,Node))
+    explored: Set[T] = {initial}
+
+    while not frontier.empty:
+        current_node: Node[T] = frontier.pop()
+        current_state: T = current_node.state
+        if goal_test(current_state):
+            return current_node
+        for child in successors(current_state):
+            if child in explored:
+                continue
+            explored.add(child)
+            frontier.push(Node(child,current_node))
+    return None
 def node_to_path(node: Node[T]) -> List[T]:
     path: List[T] = [node.state]
     while node.parent is not None:

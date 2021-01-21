@@ -2,7 +2,7 @@ from enum import Enum
 from typing import List,NamedTuple, Callable, Optional
 import random
 from math import sqrt
-from generic_search import dfs,Node,node_to_path#,bfs,astar
+from generic_search import dfs,Node,node_to_path,bfs#,astar
 
 class Cell(str,Enum):
     EMPTY = " "
@@ -62,6 +62,7 @@ def clear(self,path: List[MazeLocation]):
     self._grid[self.start.row][self.start.column] = Cell.START
     self._grid[self.goal.row][self.goal.column] = Cell.GOAL
 
+
 if __name__ == '__main__':
     m: Maze = Maze()
     print(m)
@@ -73,3 +74,11 @@ if __name__ == '__main__':
         m.mark(path1)
         print(m)
         m.clear(path1)
+    solution2: Optional[Node[MazeLocation]] = bfs(m.start, m.goal_test, m.successors)
+    if solution2 is None:
+        print("너비 우선 탐색으로 길을 찾을 수 없습니다.")
+    else:
+        path2: List[MazeLocation] = node_to_path(solution2)
+        m.mark(path2)
+        print(m)
+        m.clear(path2)
