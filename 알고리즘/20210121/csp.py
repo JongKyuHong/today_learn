@@ -36,7 +36,7 @@ class CSP(Generic[V,D]):
         if len(assignment) == len(self.variables):
             return assignment
         unassigned: List[V] = [v for v in self.variables if v not in assignment]
-        
+
         first: V = unassigned[0]
         for value in self.domains[first]:
             local_assignment = assignment.copy()
