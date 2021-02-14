@@ -12,7 +12,8 @@ def nqueen(arr):
         if arr[i] in array:
             array.remove(arr[i])
         distance = length - i
-        print(distance)
+        print("거리",distance)
+
         if arr[i] + distance in array:
             array.remove(arr[i]+distance)
 

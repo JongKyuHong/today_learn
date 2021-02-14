@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63ced1ba-e8f9-428e-91c0-a31911ccad03" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/20210214/n-queen 내가한거.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20210214/n-queen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20210214/연산자 끼워넣기.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20210214/n-queen 내가한거.py" beforeDir="false" afterPath="$PROJECT_DIR$/20210214/n-queen 내가한거.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +56,7 @@
       <recent name="C:\Users\홍\Documents\GitHub\today_learn\알고리즘\20201216" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.n-queen 내가한거">
+  <component name="RunManager" selected="Python.n-queen">
     <configuration name="부품 찾기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="알고리즘" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -584,8 +584,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.n-queen 내가한거" />
         <item itemvalue="Python.n-queen" />
+        <item itemvalue="Python.n-queen 내가한거" />
         <item itemvalue="Python.바닥 공사" />
         <item itemvalue="Python.1로 만들기" />
         <item itemvalue="Python.dfs (1)" />
