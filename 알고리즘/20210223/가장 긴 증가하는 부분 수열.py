@@ -2,17 +2,13 @@ import sys
 input = sys.stdin.readline
 n = int(input())
 array = list(map(int,input().split()))
-dp = [0] * 1001
+dp = [1 for i in range(n)]
 
-if n == 1:
-    print(1)
-    exit()
+for i in range(n):
+    for j in range(i):
+        if array[i] > array[j]:
+            dp[i] = max(dp[i],dp[j]+1)
 
-for k in range(n):
-    dp[k] = 1
-    for i in range(k):
-        if array[i] < array[k]:
-            dp[k] = max(dp[k],dp[i]+1)
-
+print(max(dp))
 
 
