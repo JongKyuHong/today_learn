@@ -2,238 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63ced1ba-e8f9-428e-91c0-a31911ccad03" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/20210311/검문.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20210311/약수.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20210311/잃어버린 괄호.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20210311/주유소.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20210315/소트인사이드.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20210315/수 정렬하기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20210315/수 정렬하기2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20210315/수 정렬하기3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20210315/통계학.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/201009/게임 개발.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/201009/게임 개발.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/201009/상하좌우.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/201009/상하좌우.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/201009/시각.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/201009/시각.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/201009/왕실의 나이트.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/201009/왕실의 나이트.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/201010/queue.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/201010/queue.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/201010/recursive.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/201010/recursive.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/201011/BFS.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/201011/BFS.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/201011/factorial_iterative.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/201011/factorial_iterative.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/201012/bfs.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/201012/bfs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/201012/dfs.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/201012/dfs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/201012/미로 탈출.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/201012/미로 탈출.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/201014/계수 정렬.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/201014/계수 정렬.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/201014/두 배열의 원소 교체.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/201014/두 배열의 원소 교체.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/201014/떡볶이 떡 만들기.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/201014/떡볶이 떡 만들기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/201014/부품 찾기.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/201014/부품 찾기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/201014/삽입정렬.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/201014/삽입정렬.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/201014/선택정렬.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/201014/선택정렬.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/201014/성적이 낮은 순서로 학생 출력하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/201014/성적이 낮은 순서로 학생 출력하기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/201014/순차탐색.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/201014/순차탐색.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/201014/위에서 아래로.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/201014/위에서 아래로.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/201014/이진 탐색.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/201014/이진 탐색.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/201014/퀵 정렬.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/201014/퀵 정렬.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/201015/떡볶이 떡 만들기.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/201015/떡볶이 떡 만들기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/201019/1로 만들기.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/201019/1로 만들기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/201019/개미 전사.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/201019/개미 전사.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/201019/피보나치 함수.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/201019/피보나치 함수.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/201021/개미전사.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/201021/개미전사.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/201021/바닥공사.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/201021/바닥공사.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/201021/효율적인 화폐 구성.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/201021/효율적인 화폐 구성.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/201022/개선된 다익스트라 알고리즘.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/201022/개선된 다익스트라 알고리즘.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/201022/다익스트라 알고리즘.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/201022/다익스트라 알고리즘.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/201022/전보.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/201022/전보.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/201022/큰 수의 법칙.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/201022/큰 수의 법칙.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/201022/플로이드 워셜 알고리즘.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/201022/플로이드 워셜 알고리즘.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/201023/1이 될 때까지.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/201023/1이 될 때까지.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/201023/1이 될 때까지2.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/201023/1이 될 때까지2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/201023/BFS.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/201023/BFS.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/201023/DFS.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/201023/DFS.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/201023/게임개발.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/201023/게임개발.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/201023/미로 탈출.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/201023/미로 탈출.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/201023/상하좌우.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/201023/상하좌우.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/201023/상하좌우2.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/201023/상하좌우2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/201023/시각.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/201023/시각.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/201023/왕실의 나이트.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/201023/왕실의 나이트.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/201023/음료수 얼려 먹기.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/201023/음료수 얼려 먹기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/201024/BFS.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/201024/BFS.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/201024/BFS연습.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/201024/BFS연습.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/201024/DFS.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/201024/DFS.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/201024/음료수 얼려 먹기.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/201024/음료수 얼려 먹기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/201025/DFS.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/201025/DFS.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/201025/bfs.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/201025/bfs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/201025/음료수 얼려 먹기.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/201025/음료수 얼려 먹기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20200923/나무 자르기.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20200923/나무 자르기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20200923/부녀회장이될거야.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20200923/부녀회장이될거야.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20200923/블랙잭.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20200923/블랙잭.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20200923/수 정렬하기2.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20200923/수 정렬하기2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20200924/설탕배달.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20200924/설탕배달.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20200925/달팽이는 올라가고 싶다.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20200925/달팽이는 올라가고 싶다.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20200926/ACM 호텔.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20200926/ACM 호텔.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20200926/괄호.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20200926/괄호.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20200926/균형잡힌 세상.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20200926/균형잡힌 세상.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20200926/나이순 정렬.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20200926/나이순 정렬.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20200926/덩치.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20200926/덩치.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20200926/숫자 카드2.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20200926/숫자 카드2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20200926/제로.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20200926/제로.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20200926/직각삼각형.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20200926/직각삼각형.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20200927/덱.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20200927/덱.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20200927/수 정렬하기3.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20200927/수 정렬하기3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20200927/스택.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20200927/스택.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20200927/요세푸스 문제0.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20200927/요세푸스 문제0.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20200927/이항 계수1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20200927/이항 계수1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20200927/좌표 정렬하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20200927/좌표 정렬하기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20200927/좌표 정렬하기2.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20200927/좌표 정렬하기2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20200927/큐.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20200927/큐.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201002/Z.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201002/Z.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201007/1이 될 때까지.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201007/1이 될 때까지.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201007/숫자 카드 게임.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201007/숫자 카드 게임.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201007/큰 수의 법칙.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201007/큰 수의 법칙.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201026/미로탈출.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201026/미로탈출.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201026/성적이 낮은 순서로 학생 출력하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201026/성적이 낮은 순서로 학생 출력하기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201026/위에서 아래로.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201026/위에서 아래로.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201027/bfs.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201027/bfs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201027/dfs.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201027/dfs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201028/계수 정렬.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201028/계수 정렬.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201028/두 배열의 원소 교체.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201028/두 배열의 원소 교체.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201028/떡볶이 떡 만들기.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201028/떡볶이 떡 만들기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201028/부품 찾기.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201028/부품 찾기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201028/삽입정렬.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201028/삽입정렬.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201028/선택정렬.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201028/선택정렬.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201028/성적이 낮은 순서로 학생 출력하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201028/성적이 낮은 순서로 학생 출력하기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201028/순차 탐색.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201028/순차 탐색.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201028/위에서 아래로.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201028/위에서 아래로.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201028/이진 탐색.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201028/이진 탐색.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201028/이진탐색 반복문.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201028/이진탐색 반복문.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201028/퀵정렬.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201028/퀵정렬.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201028/피보나치 수열 소스코드.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201028/피보나치 수열 소스코드.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201109/개선된 다익스트라 알고리즘 소스코드.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201109/개선된 다익스트라 알고리즘 소스코드.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201110/개선된 서로소 집합 알고리즘.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201110/개선된 서로소 집합 알고리즘.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201111/사이클 판별 소스.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201111/사이클 판별 소스.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201111/위상 정렬 소스.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201111/위상 정렬 소스.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201111/크루스칼 알고리즘 소스.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201111/크루스칼 알고리즘 소스.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201112/사이클 판별 소스.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201112/사이클 판별 소스.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201112/위상 정렬 소스.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201112/위상 정렬 소스.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201112/크루스칼 알고리즘 소스.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201112/크루스칼 알고리즘 소스.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201113/도시 분할 계획.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201113/도시 분할 계획.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201113/위상 정렬 소스.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201113/위상 정렬 소스.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201113/커리큘럼.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201113/커리큘럼.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201113/크루스칼 알고리즘.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201113/크루스칼 알고리즘.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201113/팀 결성.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201113/팀 결성.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201114/곱하기 혹은 더하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201114/곱하기 혹은 더하기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201114/모험가 길드.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201114/모험가 길드.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201115/만들 수 없는 금액.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201115/만들 수 없는 금액.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201115/무지먹방 답안.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201115/무지먹방 답안.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201115/무지의 먹방 라이브(이것도 통과함).py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201115/무지의 먹방 라이브(이것도 통과함).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201115/문자열 뒤집기.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201115/문자열 뒤집기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201115/볼링공 고르기.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201115/볼링공 고르기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201116/럭키 스트레이트.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201116/럭키 스트레이트.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201116/문자열 압축.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201116/문자열 압축.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201116/문자열 재정렬.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201116/문자열 재정렬.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201119/BFS.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201119/BFS.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201119/DFS.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201119/DFS.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201119/인접 리스트 방식.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201119/인접 리스트 방식.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201123/문자열 압축.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201123/문자열 압축.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201123/자물쇠와 열쇠.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201123/자물쇠와 열쇠.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201124/게임 개발.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201124/게임 개발.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201124/상하좌우.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201124/상하좌우.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201124/시각.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201124/시각.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201124/왕실의 나이트.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201124/왕실의 나이트.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201125/heapq.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201125/heapq.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201125/itertools.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201125/itertools.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201125/자물쇠와 열쇠.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201125/자물쇠와 열쇠.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201126/기능개발.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201126/기능개발.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201126/다리를 지나는 트럭.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201126/다리를 지나는 트럭.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201127/다리를 지나는 트럭.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201127/다리를 지나는 트럭.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201127/완주하지 못한 선수.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201127/완주하지 못한 선수.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201127/전화번호 목록.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201127/전화번호 목록.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201127/프린터.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201127/프린터.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201128/H-Index.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201128/H-Index.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201128/k번째 수.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201128/k번째 수.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201128/가장 큰 수.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201128/가장 큰 수.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201128/위장.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201128/위장.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201130/H-index.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201130/H-index.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201130/k번째 수.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201130/k번째 수.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201130/가장큰 수.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201130/가장큰 수.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201130/더 맵게.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201130/더 맵게.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201130/베스트앨범.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201130/베스트앨범.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201130/위장.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201130/위장.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201201/디스크 컨트롤러.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201201/디스크 컨트롤러.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201211/모의고사 다른사람 풀이.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201211/모의고사 다른사람 풀이.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201211/모의고사.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201211/모의고사.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201211/소수 찾기.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201211/소수 찾기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201211/입국심사.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201211/입국심사.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201211/징검다리.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201211/징검다리.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201211/카펫.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201211/카펫.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201212/디스크 컨트롤러.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201212/디스크 컨트롤러.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201212/크레인 인형뽑기 게임.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201212/크레인 인형뽑기 게임.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201213/2016년.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201213/2016년.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201213/나누어 떨어지는 숫자 배열.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201213/나누어 떨어지는 숫자 배열.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201213/내적.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201213/내적.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201213/두 개 뽑아서 더하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201213/두 개 뽑아서 더하기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201213/두 정수 사이의 합.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201213/두 정수 사이의 합.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201213/문자열 내 p와 y의 개수.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201213/문자열 내 p와 y의 개수.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201213/문자열 내 마음대로 정렬하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201213/문자열 내 마음대로 정렬하기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201213/문자열 내림차순으로 배치하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201213/문자열 내림차순으로 배치하기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201213/문자열 다루기 기본.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201213/문자열 다루기 기본.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201213/문자열을 정수로 바꾸기.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201213/문자열을 정수로 바꾸기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201213/서울에서 김서방 찾기.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201213/서울에서 김서방 찾기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201213/소수 찾기.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201213/소수 찾기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201213/수박수박수박수박수박수.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201213/수박수박수박수박수박수.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201213/시저 암호.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201213/시저 암호.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201213/약수의 합.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201213/약수의 합.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201213/이상한 문자 만들기.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201213/이상한 문자 만들기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201213/체육복.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201213/체육복.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201214/자릿수 더하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201214/자릿수 더하기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201214/자연수 뒤집어 배열로 만들기.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201214/자연수 뒤집어 배열로 만들기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201214/정수 내림차순으로 배치하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201214/정수 내림차순으로 배치하기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201214/정수 제곱근 판별.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201214/정수 제곱근 판별.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201214/제일 작은 수 제거하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201214/제일 작은 수 제거하기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201214/짝수와 홀수.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201214/짝수와 홀수.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201214/최대공약수와 최소공배수.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201214/최대공약수와 최소공배수.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201214/콜라츠 추측.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201214/콜라츠 추측.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201214/키패드 누르기.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201214/키패드 누르기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201215/x만큼 간격이 있는 n개의 숫자.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201215/x만큼 간격이 있는 n개의 숫자.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201215/직사각형 별찍기.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201215/직사각형 별찍기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201215/평균 구하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201215/평균 구하기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201215/하샤드 수.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201215/하샤드 수.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201215/핸드폰 번호 가리기.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201215/핸드폰 번호 가리기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201215/행렬의 덧셈.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201215/행렬의 덧셈.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201216/비밀지도.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201216/비밀지도.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201216/예산.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201216/예산.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201217/124 나라의 숫자.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201217/124 나라의 숫자.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201217/다트 게임.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201217/다트 게임.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201217/비밀지도 다른풀이.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201217/비밀지도 다른풀이.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201217/실패율.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201217/실패율.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201218/멀쩡한 사각형.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201218/멀쩡한 사각형.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201219/삼각달팽이(답).py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201219/삼각달팽이(답).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201219/삼각달팽이.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201219/삼각달팽이.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201219/스킬트리.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201219/스킬트리.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201220/문자열 압축.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201220/문자열 압축.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201222/구명보트.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201222/구명보트.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201222/큰 수 만들기.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201222/큰 수 만들기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201223/1이 될 때까지.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201223/1이 될 때까지.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201223/bfs.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201223/bfs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201223/dfs.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201223/dfs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201223/게임개발.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201223/게임개발.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201223/상하좌우.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201223/상하좌우.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201223/숫자 카드 게임.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201223/숫자 카드 게임.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201223/시각.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201223/시각.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201223/음료수 얼려 먹기.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201223/음료수 얼려 먹기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201223/조이스틱.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201223/조이스틱.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201228/괄호 변환.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201228/괄호 변환.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201229/괄호 변환.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201229/괄호 변환.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201230/a+b-7.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201230/a+b-7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201230/a+b-8.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201230/a+b-8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201230/a+b.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201230/a+b.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201230/가장 큰 정사각형 찾기 답.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201230/가장 큰 정사각형 찾기 답.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201230/가장 큰 정사각형 찾기.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201230/가장 큰 정사각형 찾기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201230/개.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201230/개.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201230/고양이.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201230/고양이.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201230/곱셈.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201230/곱셈.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201230/괄호 변환.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201230/괄호 변환.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201230/구구단.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201230/구구단.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201230/더하기 사이클.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201230/더하기 사이클.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201230/별찍기.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201230/별찍기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201230/빠른 a+b.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201230/빠른 a+b.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201230/쿼드압축 후 개수 세기.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201230/쿼드압축 후 개수 세기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20201230/타겟 넘버.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020/20201230/타겟 넘버.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -285,8 +59,8 @@
       <recent name="C:\Users\홍\Documents\GitHub\today_learn\알고리즘\20201223" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.약수">
-    <configuration name="잃어버린 괄호" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.소트인사이드">
+    <configuration name="수 정렬하기3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="알고리즘" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -294,11 +68,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20210311" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20210315" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20210311/잃어버린 괄호.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20210315/수 정렬하기3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -425,6 +199,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20210225/피보나치 함수.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="수 정렬하기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="알고리즘" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20210315" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20210315/수 정렬하기.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -580,7 +375,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="회의실 배정 힌트를 보고" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="잃어버린 괄호" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="알고리즘" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -588,11 +383,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20210310" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20210311" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20210310/회의실 배정 힌트를 보고.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20210311/잃어버린 괄호.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="소트인사이드" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="알고리즘" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20210315" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20210315/소트인사이드.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="실패율" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="알고리즘" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20201217" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20201217/실패율.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -769,55 +606,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="실패율" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="알고리즘" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20201217" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20201217/실패율.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="atm" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="알고리즘" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20210310" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20210310/atm.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.약수" />
-        <item itemvalue="Python.주유소" />
+        <item itemvalue="Python.소트인사이드" />
+        <item itemvalue="Python.수 정렬하기3" />
         <item itemvalue="Python.잃어버린 괄호" />
-        <item itemvalue="Python.atm" />
-        <item itemvalue="Python.회의실 배정 힌트를 보고" />
       </list>
     </recent_temporary>
   </component>
