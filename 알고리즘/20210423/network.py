@@ -20,6 +20,7 @@ def DFS(n,computers,com,visited):
 
 ## bfs 사용
 
+
 def solution(n,computers):
     answer = 0
     visited = [False for i in range(n)]
