@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63ced1ba-e8f9-428e-91c0-a31911ccad03" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/20210526/가장 긴 증가하는 부분 수열.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20210526/메뉴 리뉴얼 답.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20210526/메뉴 리뉴얼.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20210526/최장 공통 부분 수열.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20210526/메뉴 리뉴얼 답.py" beforeDir="false" afterPath="$PROJECT_DIR$/20210526/메뉴 리뉴얼 답.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
